@@ -10,7 +10,7 @@ Software Engineering student with interest in DevOps and cloud building the syst
 
 --> 42 Prague Cadet lvl 5
 
---> IU BcS. Software Engineering last semester
+--> BcS. Software Engineering finished 2026
 
 --> Dog lover that somehow ended up as a cat owner 
 
